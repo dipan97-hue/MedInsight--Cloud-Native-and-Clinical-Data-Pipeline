@@ -1,0 +1,11 @@
+langchain
+python-dotenv
+google-cloud-bigquery
+pyarrow
+dbt-bigquery
+dbt
+pypdf
+langgraph
+chromadb
+langchain_google_genai
+langchain_community

@@ -1,0 +1,20 @@
+{
+  "target_dir": "D:\\exercises\\Projects\\MedInsights\\dbt_medinsights\\target",
+  "fingerprints": {
+    "run_results.json": {
+      "size": 11678,
+      "modified_secs": 1792260178
+    },
+    "semantic_manifest.json": {
+      "size": 234,
+      "modified_secs": 1792260165
+    },
+    "manifest.json": {
+      "size": 567901,
+      "modified_secs": 1792260178
+    }
+  },
+  "write_source": "DirectWrite",
+  "context_dir": null,
+  "context_fingerprints": {}
+}

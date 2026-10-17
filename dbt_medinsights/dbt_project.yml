@@ -1,0 +1,4 @@
+name: 'dbt_medinsights'
+version: '1.0'
+profile: 'medinsights'
+model-paths: ["models"]

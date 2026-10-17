@@ -1,0 +1,16 @@
+version : 2
+
+sources:
+  - name: vitaldb
+    description: "This is the source for the MedInsights data warehouse."
+    database : medical-analytics-510812
+    schema : vitaldb
+
+    tables:
+      - name: clinical_data
+      - name: lab_data
+
+
+    
+
+  

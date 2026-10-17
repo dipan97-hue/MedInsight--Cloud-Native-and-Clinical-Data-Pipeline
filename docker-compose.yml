@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  medinsight-agent:
+    build: .
+    container_name: medinsight_container
+    volumes:
+      - .:/workspace
+    environment:
+      - PYTHONUNBUFFERED=1
+    # Keeps container running or executes the agent script directly
+    command: python agent/medical_agent.py

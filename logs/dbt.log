@@ -1,0 +1,6 @@
+==================== 2026-10-11T18:47:27.649344Z | 01a12c4a-949f-7792-8919-8b2d161685b5 ====================
+18:47:27.649531 [info ]: Installing dbt project and profile setup
+18:47:27.659920 [info ]: Info Created .vscode/extensions.json with dbt extension recommendation
+18:47:27.660252 [info ]: Success Project created successfully!
+18:47:27.660382 [info ]: Info Project name: jaffle_shop
+18:47:27.660465 [info ]: Info Project directory: jaffle_shop
